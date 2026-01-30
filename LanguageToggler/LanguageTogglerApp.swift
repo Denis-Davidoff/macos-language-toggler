@@ -2,16 +2,16 @@
 //  LanguageTogglerApp.swift
 //  LanguageToggler
 //
-//  Created by Mac on 30/01/2026.
-//
 
 import SwiftUI
 
 @main
 struct LanguageTogglerApp: App {
+    @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+
     var body: some Scene {
-        WindowGroup {
-            ContentView()
+        Settings {
+            EmptyView()
         }
     }
 }
