@@ -2,11 +2,15 @@
 
 **Fast keyboard layout switcher for macOS**
 
+**Toggle between two languages with one hotkey, even if 3+ languages are installed, or assign hotkeys to specific languages.**
+
 A lightweight menu bar app that provides instant keyboard layout switching with customizable hotkeys. Perfect for multilingual users who need quick access to specific input languages.
 
 ![macOS](https://img.shields.io/badge/macOS-13.0+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Swift](https://img.shields.io/badge/Swift-5-orange)
+
+![LanguageToggler Screenshot](Icons/screenshot.jpg)
 
 ---
 
